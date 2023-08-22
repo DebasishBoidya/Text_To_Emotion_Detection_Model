@@ -1,2 +1,2 @@
 # Text_To_Emotion_Detection_Model
-This repository provides an implementation of a text emotion detection model using machine learning techniques. The goal of this project is to classify the emotional content of text inputs, enabling applications such as sentiment analysis, social media monitoring and customer feedback analysis.
+This repository provides an implementation of a text emotion detection model using machine learning techniques. Tried different classification algorithms like Logistic Regression and SVM algorithms to classify text into emotion categories. The goal of this project is to classify the emotional content of text inputs, enabling applications such as sentiment analysis, social media monitoring and customer feedback analysis.
